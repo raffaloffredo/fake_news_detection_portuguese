@@ -22,6 +22,7 @@
 
 ## Material Extra
 Os resultados obtidos nesse estudo foram condensados na apresentação abaixo.
+<br/>
 
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsWoZCEKDlYs2HMT4GYT2to2Sz8sIrtAN3IBatNMayRaR_U4nEsDbI4pNo9YBLRshrR2J4jDkuvwBTZjfLERVDiuyWklV04P6Y2KVAq7iJD1kaDxrGEWFSCJCEGfLLXfVZ6ClT6cTwY2hCrGkPIB0jJ9lkIFSTmE2cJscC_KAvqWKfNz7_tFSql__5S4/w640-h360/Slide1.PNG" width="60%">
