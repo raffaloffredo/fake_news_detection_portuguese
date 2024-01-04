@@ -1,7 +1,7 @@
 # Detecção de Fake News com Redes Neurais
 
 <p align="center">
-  ⚠️EM CONSTRUÇÃO ⚠️
+  ⚠️EM CONSTRUÇÃO - NO AR DIA 9 DE JANEIRO DE 2024⚠️
 </p>
 
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png"> _Click [here](https://github.com/raffaloffredo/fake_news_detection) to English-EN_   
