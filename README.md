@@ -21,10 +21,25 @@
 <br/>
 
 ## Material Extra
-Os resultados obtidos nesse estudo foram condensados em imagens para gerar uma apresentação direta do que a empresa poderia alcançar com o uso dessa ferramenta.
+Os resultados obtidos nesse estudo foram condensados na apresentação abaixo.
 
 <p align="center">
-  <img src="" width="60%">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSsWoZCEKDlYs2HMT4GYT2to2Sz8sIrtAN3IBatNMayRaR_U4nEsDbI4pNo9YBLRshrR2J4jDkuvwBTZjfLERVDiuyWklV04P6Y2KVAq7iJD1kaDxrGEWFSCJCEGfLLXfVZ6ClT6cTwY2hCrGkPIB0jJ9lkIFSTmE2cJscC_KAvqWKfNz7_tFSql__5S4/w640-h360/Slide1.PNG" width="60%">
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhC1yq3rp8z23Rhb5GZQ9EZOPG4w6fcT8_2hDK9to6JcYW1USW8IwD0dd9RQqvwxGxsJeBtoc24G8ywABlJkfWGcCjJt3oq4-X_VsbIRl8Kar2HohR1OC04rmJIqsDfdqdFwPcy1koc_NMThaB24NIjhS6fKOVbW6E7g2o25ahZiZ-_cbvaSbrAryC8Xoc/w640-h360/Slide2.PNG" width="60%">
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb6fqZlxkX0lSJeVZqXN4coQysdF2uCE7K3guwZUupmTVCNNPnph5CTxuWxXq10mxC9M3J08fSon-k-yWQNe2AVpH5GBeEaGjzay2BmPKTVwDK47Rpd0oBHI3M6Y0Rk2dZIQwCPd8JOchAXgBOTmeFhqhRggY6HZ8P1g-Nspr2kd2tn5xRlUEnrmPTZ9s/w640-h360/Slide3.PNG" width="60%">
+</p>
+<br/>
+
+<p align="center">
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKlGlYCQker2LaPGx7uzNivYZHtPyMM7JS5QoCt8ESNC09KMZdAHb4KWJ4Z7CnP5H2v2wkVlCB9w8_xh1vpLZkw6yU9_zoVncssi1KBCYpZSiKgixpNKjQtd2iZhYqJjOO2dZ1oUSjlcqUFAfczj-vP4WY284ImZaHXza5qIlfJP5LN_DN-4oJAtqcess/w640-h360/Slide4.PNG" width="60%">
 </p>
 <br/>
 
