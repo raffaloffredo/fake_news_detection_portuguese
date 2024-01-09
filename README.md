@@ -14,7 +14,7 @@
 
 ## Sobre o projeto
 
-* **[Projeto na íntegra]()**
+* **[Projeto na íntegra](https://github.com/raffaloffredo/fake_news_detection_portuguese/blob/main/%5BLoffredoDS%5D_Detec%C3%A7%C3%A3o_de_Fake_News_com_Redes_Neurais.ipynb)**
 * **[Artigo Completo]()**
 * **[Artigo Resumido (Resultados)]()**
 
