@@ -1,9 +1,5 @@
 # Detecção de Fake News com Redes Neurais
 
-<p align="center">
-  ⚠️EM CONSTRUÇÃO - NO AR DIA 9 DE JANEIRO DE 2024⚠️
-</p>
-
 <img align="center" alt="EN" height="30" width="30" src="https://em-content.zobj.net/thumbs/120/whatsapp/326/flag-united-states_1f1fa-1f1f8.png"> _Click [here](https://github.com/raffaloffredo/fake_news_detection) to English-EN_   
 <br/>
 
@@ -13,10 +9,13 @@
 <br/>
 
 ## Sobre o projeto
+As fake news têm sido um problema recorrente na nossa Era pós globalização e com fácil acesso à internet. Para combatê-las é necessário primeiro identificá-las. Isso é possível com o uso de algoritmos treinados para essa finalidade.
+
+Nesse estudo criei um modelo supervisionado de aprendizado de máquina com o uso de redes neurais para classificar se uma notícia é ou não confiável. Para isso foi feita uma análise exploratória do conjunto de dados, limpeza e tratamento dos dados, a padronização de textos. Foram criadas duas nuvens de palavras para se familiarizar com os termos mais utilizados nos artigos, bem como foram analisados os autores com a maior quantidade de notícias nesse conjunto de dados. Em seguida, se realizou o pré-processamento necessário para o uso do TensorFlow por meio das técnicas de tokenização e _padding_. A construção do algoritmo foi modelada de acordo com o problema, por isso, sua base é uma rede neural sequencial empilhada por camadas que conta com: _Embedding_, _Conv1D_, _GlobalMaxPool1D_ e _Dense_. Após a inserção de novos dados no modelo, avaliou-se sua performance por meio dos valores de acurácia e recall, além da construção da matriz de confusão.
 
 * **[Projeto na íntegra](https://github.com/raffaloffredo/fake_news_detection_portuguese/blob/main/%5BLoffredoDS%5D_Detec%C3%A7%C3%A3o_de_Fake_News_com_Redes_Neurais.ipynb)**
-* **[Artigo Completo]()**
-* **[Artigo Resumido (Resultados)]()**
+* **[Artigo Completo](https://medium.com/@loffredo.ds/detec%C3%A7%C3%A3o-de-fake-news-com-redes-neurais-cd2ebfa4af33)**
+* **[Artigo Resumido (Resultados)](https://www.linkedin.com/pulse/constru%25C3%25A7%25C3%25A3o-de-uma-solu%25C3%25A7%25C3%25A3o-para-combate-fake-news-com-loffredo-4zamf)**
 
 <br/>
 
